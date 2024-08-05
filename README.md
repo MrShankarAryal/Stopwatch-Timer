@@ -71,6 +71,7 @@ while (1) {
         // Wait for the user to start the stopwatch
     }
 }
+```
 ## 🤝 Contributing
 Contributions are welcome! Please fork the repository and create a pull request with your changes.
 
