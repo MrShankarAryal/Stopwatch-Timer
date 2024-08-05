@@ -72,6 +72,12 @@ while (1) {
     }
 }
 ```
+## 📂 Additional Resources
+The project includes a presentation file for a more detailed explanation:
+
+[Stopwatch-Timer/Stop watch Timer.pptx](Stopwatch-Timer/Stop%20watch%20Timer.pptx)
+
+
 ## 🤝 Contributing
 Contributions are welcome! Please fork the repository and create a pull request with your changes.
 
