@@ -20,7 +20,7 @@ This is a simple stopwatch program implemented in C for the Turbo C compiler. Th
 ### 💻 Installation
 1. **Clone this repository**:
     ```sh
-    git clone https://github.com/yourusername/clock-time-stopper.git
+    git clone https://github.com/MrShankarAryal/clock-time-stopper.git
     ```
 2. **Open the project** in Turbo C or any other compatible C compiler.
 
